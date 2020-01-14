@@ -1,0 +1,13 @@
+As a MQ student I could use a crossangles clone to plan my future terms to optimise my timetable and have it work together with friends so that I can hang out with my friends
+As a Christian MQ student a crossangles clone would help plan my timetable with uni Campus Bible Study meetings so that I can devote myself to Jesus
+As a MQ student I would like to see a smooth appearance, where I can easily drag and drop my classes, showing the options we have to choose from so it is easier for me to plan my classes
+As a MQ student I would like to be able to search all my courses avaliable to me so I know all my options when planning my degree
+As a MQ student I would like it to exclude courses that are not avaliable in the semester so that I don't choose courses that aren't provided
+As a MQ student, I would like the option to see the avaliablility of classes so I don't choose full classes
+As a MQ student, I would like the option to see the location of classes so my classes aren't far away from each other
+As a MQ student, I would like the option to see the capacity of classes so I don't choose full classes
+As a MQ student, I would like the option to see or exclude the classes that are full so I don't try to enrol in classes that aren't available
+As a MQ student, I would like the data to be presented in a clean timetable layout that lets us see our options cleanly, with colours to differntiate between colours so that it is visually easier to see
+As a MQ student, it would be helpful if the clone provided an automatically put together timetable upon provision of courses with minimal clashing so that I can see problems in my timetable
+As a MQ student, I would like the clone to allow us to save the timetable as an image so I can share my timetable with friends
+As a MQ student, I would like the clone to show us clashes between our choices so that I can know which classes I can't show up and change my timetable accordingly
